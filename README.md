@@ -4,6 +4,7 @@ LBBlurredImage
 LBBlurredImage is an UIImageView category that permit to set an image and make this blurred.
 
 Here are an example of what you can achieve:
+
 ![](https://raw.github.com/lukabernardi/LBBlurredImage/master/Resources/SimulatorScreenshot.png)
 
 Installation & Use
