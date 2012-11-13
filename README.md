@@ -22,3 +22,5 @@ Installation & Use
                    NSLog(@"The blurred image has been setted");
                }];
 ```
+
+The generation of the blurred image is made on a background thread, for this reason a completion block is provided. The completionBlock is dispatched on the main thread when the image was generated and set to the UIImageView.
